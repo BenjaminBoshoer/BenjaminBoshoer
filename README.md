@@ -1,5 +1,9 @@
 Interested in low level Development.
 
+
+#### Check out my projects 
+- ⚙️ **Tinydbg** - A small C++ Linux debugger. Wraps ptrace syscall for reading process memory and handling breakpoints.
+- 🖥️ **Computer Engineering Final Project** - A Python implementation of MBRB Broadcast Algorithm.
 <!--
 **BenjaminBoshoer/BenjaminBoshoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
