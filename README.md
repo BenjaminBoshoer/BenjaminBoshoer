@@ -2,6 +2,7 @@ Interested in low level Development.
 
 
 #### Check out my projects 
+- 🪝 **[minihook-rs](https://github.com/BenjaminBoshoer/minihook-rs)** - ***Work in progress!*** A Rust based hooking library for the Windows API.
 - ⚙️ **[Tinydbg](https://github.com/BenjaminBoshoer/Tinydbg)** - A small C++ Linux debugger. Wraps ptrace syscall for reading process memory and handling breakpoints.
 - 🖥️ **[Computer Engineering Final Project](https://github.com/BenjaminBoshoer/CE-Final-Project)** - A Python implementation of MBRB Broadcast Algorithm.
 <!--
