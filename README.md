@@ -1,4 +1,6 @@
-Interested in low level Development, AI & Cyber security
+_**AI Security Researcher**_ @ [Offensive AI Lab](https://offensive-ai-lab.com/) 
+
+Interested in low level Development, AI & Cyber Security.
 
 
 #### Check out my projects 
